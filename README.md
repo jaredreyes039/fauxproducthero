@@ -1,6 +1,3 @@
-# fauxproducthero
-Hero page for fake software product announcing a dealing.
-
 
 # Welcome to Hyperdrive: The Future of Software Development
 
